@@ -2,7 +2,8 @@ Calibre plugin for Flibusta OPDS
 ================================
 
 Installation:
-Download it from [here](https://github.com/akovalyov/flibusta-calibre-store-plugin/archive/master.zip)
+
+Download it from [here](https://github.com/akovalyov/flibusta-calibre-store-plugin/releases/tag/v1.0.1)
 
 Go to: 
 
